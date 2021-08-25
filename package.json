@@ -1,0 +1,22 @@
+{
+  "name": "pi_bot",
+  "version": "1.0.0",
+  "description": "Bot for my raspberry pi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessecanderson/pi_bot.git"
+  },
+  "author": "Jesse Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessecanderson/pi_bot/issues"
+  },
+  "homepage": "https://github.com/jessecanderson/pi_bot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  }
+}
